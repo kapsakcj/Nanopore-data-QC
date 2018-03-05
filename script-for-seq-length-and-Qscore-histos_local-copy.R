@@ -1,4 +1,3 @@
-# Feb 7th, 2018
 # Curtis Kapsak
 # Here I'll document how I made the q-score and read length histograms for the Nanopore data.
 # The data that is used here was the output file from Albacore "sequencing_summary.txt". This
